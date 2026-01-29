@@ -2,7 +2,7 @@
 Type=Application
 Name=Overlay Space Manager
 Comment=Check, clean, and move data out of the EasyOS overlay writable layer
-Exec=overlay-space-manager
+Exec=/usr/share/applications.in/overlay-space-manager.sh
 Icon=overlay-space-manager
 Terminal=false
 Categories=System;Utility;
