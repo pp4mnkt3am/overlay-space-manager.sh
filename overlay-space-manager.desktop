@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Overlay Space Manager
+Comment=Check, clean, and move data out of the EasyOS overlay writable layer
+Exec=overlay-space-manager
+Icon=overlay-space-manager
+Terminal=false
+Categories=System;Utility;
+StartupNotify=true
+
