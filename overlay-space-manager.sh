@@ -6,7 +6,7 @@
 #  - Safe-ish cache cleanup
 #  - Move heavy /root folders outside overlay (symlinks)
 #  - Watch mode: auto-warning at 85%
-#
+#   I included this file in /usr/share/applications.in/overlay-space-manager.sh
 # Works with /bin/sh (ash), POSIX-safe.
 
 set -u
